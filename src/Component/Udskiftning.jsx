@@ -1,8 +1,7 @@
-import React from 'react'
 import styled from 'styled-components'
 import Header from './Header'
 import Footer from './Footer'
-import udskift from './Udskiftningtavler.png'
+import udskift from '../assets/Udskiftningtavler.png'
 
 const UdskiftningContainer = styled.div`
 .case{

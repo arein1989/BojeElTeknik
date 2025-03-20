@@ -1,4 +1,3 @@
-import React from 'react'
 import styled from 'styled-components'
 import Header from './Header'
 import Footer from './Footer'
@@ -70,19 +69,19 @@ export default function Fåettilbud() {
                       <input type="hidden" name="access_key" value="ce601e9e-28e4-4b29-86c4-e9ab8fd56b64"/>
                       <input type="hidden" name="from_name" value="Boje El"></input>
                       <input type="hidden" name="subject" value="Ny formularindsendelse fra din hjemmeside"></input>
-                      <label for="navn">Navn</label>
+                      <label htmlFor="navn">Navn</label>
                       <input type="text" id="navn" placeholder="Dit navn" name="navn" required/>
             
-                      <label for="email">Email</label>
+                      <label htmlFor="email">Email</label>
                       <input type="email" id="email" placeholder="Din email" name="email" required/>
             
-                      <label for="nummer">Telefon nu.</label>
+                      <label htmlFor="nummer">Telefon nu.</label>
                       <input type="text" id="nummer" placeholder="Din telefon nu." name="nummer" required/>
             
-                      <label for="adress">Adress</label>
+                      <label htmlFor="adress">Adress</label>
                       <input type="text" id="adress" placeholder="Dit adresse" name="adress" required/>
             
-                     <label for="subject">Besked</label>
+                     <label htmlFor="subject">Besked</label>
                      <textarea  name="message" placeholder="Hvordan kan jeg hjælpe dig?" style={{height:'170px'}} required></textarea>
             
                      <button type="submit">Send</button>

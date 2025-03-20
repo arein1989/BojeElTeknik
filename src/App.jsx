@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import './App.css'
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
 import Elboje from './Component/Elboje'
@@ -19,7 +18,7 @@ import Fåettilbud from './Component/Fåettilbud'
 import Tak from './Component/Tak'
 
 function App() {
-  const [count, setCount] = useState(0)
+  
 
   return (
     <>

@@ -1,4 +1,3 @@
-import React from 'react';
 import styled from 'styled-components'
 import { Icon } from 'react-icons-kit';
 import {facebookSquare} from 'react-icons-kit/fa/facebookSquare'
@@ -92,11 +91,11 @@ export default function Footer() {
                 </div>
                 <div className="fot2">
                     <div className="icon-bars">
-                        <a href='https://www.linkedin.com/posts/boje-elteknik-aps_her-er-et-godt-eksempel-p%C3%A5-hvad-vi-kan-activity-7195138017290833921-WVbv/?originalSubdomain=dk' target="_blank">
+                        <a href='https://www.linkedin.com/posts/boje-elteknik-aps_her-er-et-godt-eksempel-p%C3%A5-hvad-vi-kan-activity-7195138017290833921-WVbv/?originalSubdomain=dk' target="_blank" rel="noreferrer">
                             <Icon icon={linkedinSquare} size={70} style={{ color: '#007bb5' }}/> 
                         </a>
                             
-                        <a href='https://www.facebook.com/profile.php?id=61559475357666&locale=da_DK' target="_blank">
+                        <a href='https://www.facebook.com/profile.php?id=61559475357666&locale=da_DK' target="_blank" rel="noreferrer">
                             <Icon icon={facebookSquare} size={70} style={{ color: '#3B5998' }}/>
                         </a>
                   

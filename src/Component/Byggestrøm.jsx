@@ -1,8 +1,7 @@
-import React from 'react'
 import styled from 'styled-components'
 import Header from './Header'
 import Footer from './Footer'
-import bygge from './Bygstrøm2.png'
+import bygge from '../assets/Bygstrøm2.png'
 
 const ByggestrømContainer = styled.div`
 .case{

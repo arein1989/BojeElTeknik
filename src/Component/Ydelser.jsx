@@ -1,16 +1,14 @@
-import React from 'react'
 import styled from 'styled-components'
-import Footer from './Footer'
 import Header from './Header'
-import Ydel from './Boje.jpg'
-import Byggestrøm from './Byggestrøm.png'
-import Data from './Data.png'
-import Ombygning from './Ombygning.png'
-import Tilbygning from './Tilbygning-kopi.png'
-import Rådgivning from './Rådgivning.png'
-import Udskiftning from './Udskiftning-kopi.png'
-import Kontor from './Kontor.png'
-import Renovering from './Renovering.png'
+import Ydel from '../assets/Boje.jpg'
+import Byggestrøm from '../assets/Byggestrøm.png'
+import Data from '../assets/Data.png'
+import Ombygning from '../assets/Ombygning.png'
+import Tilbygning from '../assets/Tilbygning-kopi.png'
+import Rådgivning from '../assets/rådgivning.png'
+import Udskiftning from '../assets/Udskiftning-kopi.png'
+import Kontor from '../assets/Kontor.png'
+import Renovering from '../assets/Renovering.png'
 
 
 const YdelserContainer = styled.div`
@@ -98,7 +96,7 @@ export default function Ydelser() {
        <YdelserContainer>
             <section className="ydelse">
               <div className="yde">
-                <img src={Ydel} alt="baground" class="ydelser"/>
+                <img src={Ydel} alt="baground" className="ydelser"/>
                 <div className="bottomcentered">
                   <p style={{ fontSize: '3vw' }}>Hvordan kan  jeg hjælpe dig? 
                     Scroll ned og se nærmere på hvad jeg kan hjælpe med,om du er privatperson  eller repræsentant af en virksomhed.

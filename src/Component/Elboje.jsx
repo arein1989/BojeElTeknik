@@ -1,9 +1,9 @@
-import React, { useEffect, useState } from 'react';
+import { useState } from 'react';
 import styled from 'styled-components'
 import Header from './Header';
 import Footer from './Footer';
-import Boje from './forside.png';
-import BojeEl from './knapp.png';
+import Boje from '../assets/forside.png';
+import BojeEl from '../assets/knapp.png';
 
 const ElbojeContainer = styled.div`
 

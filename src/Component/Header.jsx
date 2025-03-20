@@ -1,7 +1,6 @@
-import React from 'react'
 import styled from 'styled-components';
 import { Icon } from 'react-icons-kit';
-import logo from './Boje logo.png'
+import logo from '../assets/Boje logo.png'
 
 import {arrow_down} from 'react-icons-kit/ikons/arrow_down'
 

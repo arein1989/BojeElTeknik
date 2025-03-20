@@ -1,15 +1,15 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import styled from 'styled-components'
 import Header from './Header'
 import Footer from './Footer'
-import kunde1 from './kunde1.png'
-import kunde2  from './kunde 2.png'
-import kunde3 from './kunde 3.png'
-import kunde4 from './kunde 4.png'
-import kunde5 from './kunde 5.png'
-import kunde6 from './kunde 6.png'
-import kunde7 from './case7.png'
-import kunde8 from './case8.png'
+import kunde1 from '../assets/kunde1.png'
+import kunde2  from '../assets/kunde 2.png'
+import kunde3 from '../assets/kunde 3.png'
+import kunde4 from '../assets/kunde 4.png'
+import kunde5 from '../assets/kunde 5.png'
+import kunde6 from '../assets/kunde 6.png'
+import kunde7 from '../assets/case7.png'
+import kunde8 from '../assets/case8.png'
 
 const CasesContainer = styled.div`
 .case{

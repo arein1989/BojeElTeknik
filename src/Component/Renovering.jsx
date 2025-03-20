@@ -1,7 +1,7 @@
 import styled from 'styled-components'
 import Header from './Header'
 import Footer from './Footer'
-import ren from './Renovering2.png'
+import ren from '../assets/Renovering2.png'
 
 const RenoveringContainer = styled.div`
 .case{

@@ -1,4 +1,3 @@
-import React from 'react'
 import styled from 'styled-components'
 import Header from './Header'
 import { Icon } from 'react-icons-kit';
@@ -96,22 +95,22 @@ export default function Kontakt() {
                         Aut. El-installatør, indehaver.
                     </p>
                     <a href="tel:+4596967557">
-                    <p class="kon">Tel.: 60 96 75 57</p></a>
+                    <p className="kon">Tel.: 60 96 75 57</p></a>
                     <a href='mailto:flemming@boje-elteknik.dk'>
-                    <p class="kon">E-mail: flemming@boje-elteknik.dk</p></a>
-                    <p class="kon">CVR. nr. 43056530 </p>
-                    <p class="kon">Adresse: Smedevænge 13, 4600 Køge </p>
+                    <p className="kon">E-mail: flemming@boje-elteknik.dk</p></a>
+                    <p className="kon">CVR. nr. 43056530 </p>
+                    <p className="kon">Adresse: Smedevænge 13, 4600 Køge </p>
   
                 </div>
                 <div className="column1">
                     <h2>Følge os på</h2>
                     <p className="kon">sociale medier og ser alle vores nye og tilbuder</p>
                     <div className="icon-bar">
-                    <a href='https://www.linkedin.com/posts/boje-elteknik-aps_her-er-et-godt-eksempel-p%C3%A5-hvad-vi-kan-activity-7195138017290833921-WVbv/?originalSubdomain=dk' target="_blank">
+                    <a href='https://www.linkedin.com/posts/boje-elteknik-aps_her-er-et-godt-eksempel-p%C3%A5-hvad-vi-kan-activity-7195138017290833921-WVbv/?originalSubdomain=dk' target="_blank" rel="noreferrer">
                             <Icon icon={linkedinSquare} size={100} style={{ color: '#007bb5' }}/> 
                         </a>
                             
-                        <a href='https://www.facebook.com/profile.php?id=61559475357666&locale=da_DK' target="_blank">
+                        <a href='https://www.facebook.com/profile.php?id=61559475357666&locale=da_DK' target="_blank" rel="noreferrer">
                             <Icon icon={facebookSquare} size={100} style={{ color: '#3B5998' }}/>
                         </a>
                     </div>

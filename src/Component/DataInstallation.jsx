@@ -1,8 +1,7 @@
-import React from 'react'
 import styled from 'styled-components'
 import Header from './Header'
 import Footer from './Footer'
-import data from './Datainstallation.png'
+import data from '../assets/Datainstallation.png'
 
 const DataInstallationContainer = styled.div`
 

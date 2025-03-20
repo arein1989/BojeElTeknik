@@ -1,8 +1,7 @@
-import React from 'react'
 import styled from 'styled-components'
 import Header from './Header'
 import Footer from './Footer'
-import ombyg from './Ombygning2.png'
+import ombyg from '../assets/Ombygning2.png'
 
 const OmbygningContainer = styled.div`
 .case{
@@ -115,7 +114,7 @@ export default function Ombygning() {
         
                 </div>
 
-                <a class="bt" href="/fåettilbud">Få et tilbud</a>
+                <a className="bt" href="/fåettilbud">Få et tilbud</a>
             </div>
         </OmbygningContainer>
         <Footer/>
