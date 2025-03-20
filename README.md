@@ -1,16 +1,16 @@
-# React + Vite
+React + Vite
 
-##Beskrivelse
+Beskrivelse
 Dette er mit personlige portfolio, hvor jeg præsenterer mine projekter og færdigheder. Portfolioen er bygget med HTML og Bulma CSS framework og Javascript for at skabe et responsivt og moderne design.
 
 
-###Installation
+Installation
 For at køre dette projekt lokalt, skal du følge disse trin: git clone https://github.com/YaMe09/BojeElTeknik/ Naviger til mappen: cd YaMe09/BojeElTeknik/
 Clone repository 
 npm install
 npm run dev
 
-####Trin 5: Brug
+Brug
 Når du åbner hjemmesiden, kan du navigere rundt på hjemmesiden enten ved at bruge navigationen. Her er en oversigt over, hvad du kan finde:
 
  Ydelse:
