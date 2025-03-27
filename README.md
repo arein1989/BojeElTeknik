@@ -5,7 +5,7 @@ Dette er mit personlige portfolio, hvor jeg præsenterer mine projekter og færd
 
 
 Installation
-For at køre dette projekt lokalt, skal du følge disse trin: git clone https://github.com/YaMe09/BojeElTeknik/ Naviger til mappen: cd YaMe09/BojeElTeknik/
+For at køre dette projekt lokalt, skal du følge disse trin: git clone https://github.com/arein1989/BojeElTeknik/ Naviger til mappen: cd YaMe09/BojeElTeknik/
 Clone repository 
 npm install
 npm run dev
