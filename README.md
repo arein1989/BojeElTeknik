@@ -1,7 +1,7 @@
 React + Vite
 
 Beskrivelse
-Dette er mit personlige portfolio, hvor jeg præsenterer mine projekter og færdigheder. Portfolioen er bygget med HTML og Bulma CSS framework og Javascript for at skabe et responsivt og moderne design.
+Dette er El-teknik hjemmesiden. Hjemmesiden er bygget med React og Vite.
 
 
 Installation
