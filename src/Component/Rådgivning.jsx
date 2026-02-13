@@ -1,7 +1,7 @@
 import styled from 'styled-components'
 import Header from './Header'
 import Footer from './Footer'
-import råd from '../assets/rådgivning2.png'
+import råd from '../assets/rådgivning.png'
 
 const RådgivningContainer = styled.div`
 .case{
