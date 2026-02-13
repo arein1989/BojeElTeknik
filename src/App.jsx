@@ -14,7 +14,7 @@ import Rådgivning from './Component/Rådgivning'
 import Udskiftning from './Component/Udskiftning'
 import DataInstallation from './Component/DataInstallation'
 import Byggestrøm from './Component/Byggestrøm'
-import Fåettilbud from './Component/Fåettilbud'
+import Fåettilbud from './Component/Fåettilbud'
 import Tak from './Component/Tak'
 
 function App() {
