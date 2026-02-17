@@ -5,7 +5,7 @@ import Byggestrøm from '../assets/Byggestrøm.png'
 import Data from '../assets/Data.png'
 import Ombygning from '../assets/Ombygning.png'
 import Tilbygning from '../assets/Tilbygning-kopi.png'
-import Rådgivning from '../assets/raadgivning.png'
+import Raadgivning from '../assets/raadgivning.png'
 import Udskiftning from '../assets/Udskiftning-kopi.png'
 import Kontor from '../assets/Kontor.png'
 import Renovering from '../assets/Renovering.png'
@@ -142,7 +142,7 @@ export default function Ydelser() {
                 <div className="responsive">
                     <div className="gallery">
                         <a  href="/rådgivning" target="_parent">
-                            <img src={Rådgivning} alt="Forest" width="600" height="400"/>
+                            <img src={Raadgivning} alt="Forest" width="600" height="400"/>
                         </a>
                         <div className="desc">Rådgivning</div>
                     </div>
