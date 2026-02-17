@@ -10,11 +10,11 @@ import Kontor from './Component/Kontor'
 import Ombygning from './Component/Ombygning'
 import Renovering from './Component/Renovering'
 import Tilbygning from './Component/Tilbygning'
-import Rådgivning from './Component/Rådgivning'
+import Rådgivning from './Component/Rådgivning'
 import Udskiftning from './Component/Udskiftning'
 import DataInstallation from './Component/DataInstallation'
 import Byggestrøm from './Component/Byggestrøm'
-import Fåettilbud from './Component/Fåettilbud'
+import Fåettilbud from './Component/Fåettilbud'
 import Tak from './Component/Tak'
 
 function App() {
